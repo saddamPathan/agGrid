@@ -1,5 +1,5 @@
 import './App.css';
-import TableComp from './TableComp';
+import TableComp from './components/TableComp';
 
 function App() {
   return (
